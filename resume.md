@@ -1,6 +1,6 @@
 ---
 title: Hoa Resume
-layout: resume
+layout: page
 ---
 # HOA G. NGO
 (408) 891-6125 | hgngo595@gmail.com | linkedin.com/hgngo595
